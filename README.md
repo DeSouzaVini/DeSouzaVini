@@ -45,17 +45,6 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 
 ---
 
-## 📂 Projetos em Destaque
-
-*(Adicione seus repositórios aqui, exemplo abaixo)*
-
-- 📊 [Dashboard de Vendas com Power BI](https://github.com/seuusuario/projeto-powerbi)  
-  Visualização interativa de KPIs de vendas com uso de SQL Server + Power BI
-
-- 🖼️ [Protótipo de Interface com Figma](https://github.com/seuusuario/projeto-figma)  
-  UI responsiva para sistema web com foco em usabilidade e acessibilidade
-
----
 
 ## 📬 Contato
 
