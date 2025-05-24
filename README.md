@@ -36,7 +36,7 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 
 ## 📈 Certificações
 
-- 📘 **SQL do Básico ao Avançado** – Udemy  
+- 📘 **SQL do Básico ao Avançado** – Udemy    
 - 📊 **Power BI + SQL Server** – Udemy  
 - 🐍 **Python Completo do Zero ao Avançado** – Udemy  
 - 💡 **Ciência de Dados (Básico)** – Udemy  
@@ -44,7 +44,8 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 - ☁️ **Fundamentos do Google Cloud** – Google
 
 ---
-
+## 💼Projetos
+<div align="center"> <img src="https://your-image-link.com/greenworld-preview.png" alt="Green World Preview" width="600"/> </div>
 
 ## 📬 Contato
 
