@@ -44,8 +44,26 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 - ☁️ **Fundamentos do Google Cloud** – Google
 
 ---
-## 💼Projetos
-<div align="center"> <img src="https://your-image-link.com/greenworld-preview.png" alt="Green World Preview" width="600"/> </div>
+
+## 💼 Projetos
+
+### 🌿 Green World – UI Design para e-commerce de plantas
+
+**Descrição:** Projeto de design de interface feito no Figma para uma empresa fictícia de jardinagem. A proposta foca em uma experiência de compra natural, fluida e amigável ao usuário.
+
+- 🎨 Interface 100% prototipada no Figma
+- 📱 Layout responsivo (mobile & desktop)
+- 🌱 Paleta de cores inspirada na natureza
+
+🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
+
+---
+
+### 📁 Outros projetos (em breve)
+- [Nome do Projeto 2](#)
+- [Nome do Projeto 3](#)
+
+---
 
 ## 📬 Contato
 
