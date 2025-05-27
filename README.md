@@ -52,16 +52,22 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 **Descrição:** Projeto de design de interface feito no Figma para uma empresa fictícia de jardinagem. A proposta foca em uma experiência de compra natural, fluida e amigável ao usuário.
 
 - 🎨 Interface 100% prototipada no Figma
-- 📱 Layout responsivo (mobile & desktop)
+- 📱 Layout responsivo (desktop)
 - 🌱 Paleta de cores inspirada na natureza
 
 🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
 
 ---
 
-### 📁 Outros projetos (em breve)
-- [Nome do Projeto 2](#)
-- [Nome do Projeto 3](#)
+### 🎧 AirPods Max – UI Design inspirado na Apple
+
+**Descrição:** Projeto de UI criado no Figma, inspirado no design minimalista da Apple. O objetivo foi desenvolver uma página de produto elegante e funcional para os fones AirPods Max.
+
+- 🎨 Interface criada no Figma
+- 🖥️ Foco em estética clean e experiência do usuário
+- 📱 Layout responsivo
+
+🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
 
 ---
 
@@ -73,3 +79,4 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 ---
 
 ✨ **Sempre disposto a aprender, evoluir e colaborar em projetos que unam dados, design e tecnologia!**
+
