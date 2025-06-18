@@ -101,7 +101,7 @@ Descrição: Página web feita como homenagem ao jogo Grand Theft Auto V. Desenv
 🎮 Estilo visual baseado na identidade da franquia GTA
 
 🖼️ Imagens, descrições e animações simples
-🔗 [Acesse o projeto: adicione aqui o link do projeto no GitHub ou Pages]
+🔗 [Acesse o projeto:  https://desouzavini.github.io/GTA-V/]
 
 
 ---
