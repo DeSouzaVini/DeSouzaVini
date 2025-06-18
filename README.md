@@ -68,7 +68,7 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 - 📱 Layout responsivo
 
 🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
-
+---
 ### 🧬 X-Men Cards – Site interativo com personagens da equipe de 97
 **Descrição:** Site interativo desenvolvido com HTML, CSS e JavaScript que exibe cards dos personagens da equipe dos X-Men de 1997. Cada card mostra nome, imagem e poderes do personagem ao passar o mouse, oferecendo uma experiência dinâmica e nostálgica para fãs da série.
 
@@ -80,6 +80,17 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 
 🔗 [Acesse o projeto: https://desouzavini.github.io/x-man-cards/]
 
+---
+
+🔴 Pokédex – Site de listagem de Pokémons
+Descrição: Projeto web que apresenta uma lista com descrição de diversos Pokémons. Desenvolvido com HTML, CSS e JavaScript, o site simula uma Pokédex simples com visual atrativo e responsivo.
+
+💻 Desenvolvido com HTML, CSS e JavaScript
+
+🔍 Exibe nome, imagem e características básicas dos Pokémons
+
+📱 Interface leve e responsiva inspirada na Pokédex clássica
+🔗 [Acesse o projeto: adicione aqui o link do GitHub Pages ou repositório]
 
 
 ---
