@@ -92,6 +92,17 @@ Descrição: Projeto web que apresenta uma lista com descrição de diversos Pok
 📱 Interface leve e responsiva inspirada na Pokédex clássica
 🔗 [Acesse o projeto: a https://desouzavini.github.io/listagem-pokemon/]
 
+---
+🚓 GTA V – Site inspirado no jogo da Rockstar
+Descrição: Página web feita como homenagem ao jogo Grand Theft Auto V. Desenvolvida com HTML, CSS e JavaScript, apresenta imagens, descrição do game e efeitos visuais interativos inspirados no estilo da Rockstar Games.
+
+💻 Desenvolvido com HTML, CSS e JavaScript
+
+🎮 Estilo visual baseado na identidade da franquia GTA
+
+🖼️ Imagens, descrições e animações simples
+🔗 [Acesse o projeto: adicione aqui o link do projeto no GitHub ou Pages]
+
 
 ---
 
