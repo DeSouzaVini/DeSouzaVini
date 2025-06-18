@@ -78,7 +78,7 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 
 -🎨 Inspirado no estilo retrô da série animada
 
-🔗 [Link do projeto em breve ou repositório GitHub]
+🔗 [Acesse o projeto: https://desouzavini.github.io/x-man-cards/]
 
 
 
