@@ -90,7 +90,7 @@ Descrição: Projeto web que apresenta uma lista com descrição de diversos Pok
 🔍 Exibe nome, imagem e características básicas dos Pokémons
 
 📱 Interface leve e responsiva inspirada na Pokédex clássica
-🔗 [Acesse o projeto: adicione aqui o link do GitHub Pages ou repositório]
+🔗 [Acesse o projeto: a https://desouzavini.github.io/listagem-pokemon/]
 
 
 ---
