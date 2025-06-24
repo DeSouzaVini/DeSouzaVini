@@ -103,9 +103,14 @@ Descrição: Página web feita como homenagem ao jogo Grand Theft Auto V. Desenv
 🖼️ Imagens, descrições e animações simples
 🔗 [Acesse o projeto:  https://desouzavini.github.io/GTA-V/]
 
-
 ---
+🍓 Refrigerantes -Site
+Descrição: Página web que apresenta 3 opções de refrigerante
 
+💻 Desenvolvido com HTML, CSS e JavaScript
+
+🖼️ Imagens e animações simples
+🔗 [Acesse o projeto:  https://desouzavini.github.io/GTA-V/]
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@gmail.com)  
