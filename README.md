@@ -1,4 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Vinicius de Souza Martins</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Sistemas;Amante+de+Dados,+Design+e+Dev+Web;&center=true&width=400&height=45">
 </p>
@@ -17,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades em Python, SQL, Power BI e Design de Interfaces. Gosto de transformar dados em **insights visuais** e criar **interfaces funcionais e atrativas**. Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
+Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades em **Python**, **SQL**, **Power BI** e **Design de Interfaces**. Gosto de transformar dados em **insights visuais** e criar **interfaces funcionais e atrativas**. Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ---
 
@@ -48,73 +49,54 @@ Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades e
 ## 💼 Projetos
 
 ### 🌿 Green World – UI Design para e-commerce de plantas
-
-**Descrição:** Projeto de design de interface feito no Figma para uma empresa fictícia de jardinagem. A proposta foca em uma experiência de compra natural, fluida e amigável ao usuário.
-
-- 🎨 Interface 100% prototipada no Figma
-- 📱 Layout responsivo (desktop)
-- 🌱 Paleta de cores inspirada na natureza
-
-🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
+**Descrição:** Design de interface no Figma para uma loja fictícia de jardinagem.  
+🔗 [Acesse o projeto](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
 
 ---
 
-### 🎧 AirPods Max – UI Design inspirado na Apple
-
-**Descrição:** Projeto de UI criado no Figma, inspirado no design minimalista da Apple. O objetivo foi desenvolver uma página de produto elegante e funcional para os fones AirPods Max.
-
-- 🎨 Interface criada no Figma
-- 🖥️ Foco em estética clean e experiência do usuário
-- 📱 Layout responsivo
-
-🔗 [Acesse o projeto no Figma](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
----
-### 🧬 X-Men Cards – Site interativo com personagens da equipe de 97
-**Descrição:** Site interativo desenvolvido com HTML, CSS e JavaScript que exibe cards dos personagens da equipe dos X-Men de 1997. Cada card mostra nome, imagem e poderes do personagem ao passar o mouse, oferecendo uma experiência dinâmica e nostálgica para fãs da série.
-
--💻 Desenvolvido com HTML, CSS e JavaScript
-
--🦸‍♂️ Cards animados e interativos com hover
-
--🎨 Inspirado no estilo retrô da série animada
-
-🔗 [Acesse o projeto: https://desouzavini.github.io/x-man-cards/]
+### 🎧 AirPods Max – UI Design inspirado na Apple  
+**Descrição:** Página de produto inspirada no design minimalista da Apple.  
+🔗 [Acesse o projeto](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
 
 ---
 
-🔴 Pokédex – Site de listagem de Pokémons
-Descrição: Projeto web que apresenta uma lista com descrição de diversos Pokémons. Desenvolvido com HTML, CSS e JavaScript, o site simula uma Pokédex simples com visual atrativo e responsivo.
-
-💻 Desenvolvido com HTML, CSS e JavaScript
-
-🔍 Exibe nome, imagem e características básicas dos Pokémons
-
-📱 Interface leve e responsiva inspirada na Pokédex clássica
-🔗 [Acesse o projeto: a https://desouzavini.github.io/listagem-pokemon/]
+### 🧬 X-Men Cards – Site interativo com personagens  
+**Descrição:** Cards animados com hover de personagens dos X-Men.  
+🔗 [Acesse o projeto](https://desouzavini.github.io/x-man-cards/)
 
 ---
-🚓 GTA V – Site inspirado no jogo da Rockstar
-Descrição: Página web feita como homenagem ao jogo Grand Theft Auto V. Desenvolvida com HTML, CSS e JavaScript, apresenta imagens, descrição do game e efeitos visuais interativos inspirados no estilo da Rockstar Games.
 
-💻 Desenvolvido com HTML, CSS e JavaScript
-
-🎮 Estilo visual baseado na identidade da franquia GTA
-
-🖼️ Imagens, descrições e animações simples
-🔗 [Acesse o projeto:  https://desouzavini.github.io/GTA-V/]
+### 🔴 Pokédex – Catálogo de Pokémons  
+**Descrição:** Simples Pokédex com imagens, descrições e responsividade.  
+🔗 [Acesse o projeto](https://desouzavini.github.io/listagem-pokemon/)
 
 ---
-🍓 Refrigerantes -Site
-Descrição: Página web que apresenta 3 opções de refrigerante
 
-💻 Desenvolvido com HTML, CSS e JavaScript
+### 🚓 GTA V – Homenagem ao jogo  
+**Descrição:** Página visual inspirada na estética do GTA V.  
+🔗 [Acesse o projeto](https://desouzavini.github.io/GTA-V/)
 
-🖼️ Imagens e animações simples
-🔗 [Acesse o projeto: https://desouzavini.github.io/Refri/]
+---
+
+### 🍓 Refrigerantes – Página simples com 3 opções  
+**Descrição:** Página de produtos com imagens e animações básicas.  
+🔗 [Acesse o projeto](https://desouzavini.github.io/Refri/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desouzavini&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desouzavini&layout=compact&theme=radical"/>
+</p>
+
+---
+
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-martins-972567191)
 
 ---
 
