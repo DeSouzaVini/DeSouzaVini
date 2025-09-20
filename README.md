@@ -99,5 +99,5 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ## 📬 Contato
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-martins-972567191)
