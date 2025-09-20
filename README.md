@@ -82,7 +82,9 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 - 🛒 **Loja Online – Banco de Dados SQL**  
   **Descrição:** Modelagem e implementação de um sistema de e-commerce usando MySQL, com tabelas de clientes, pedidos, pagamentos e estoque. Inclui consultas de análise como produtos mais vendidos e total gasto por cliente.  
-  🔗 [Acesse o projeto](https://github.com/seuusuario/LojaOnline-SQL)
+  🔗 [Acesse o repositório completo](https://github.com/desouzavini/LojaOnline-SQL)  
+  🔗 [Acesse diretamente o README do projeto](https://github.com/desouzavini/LojaOnline-SQL/blob/main/README.md)  
+  🔗 [Acesse os arquivos SQL](https://github.com/desouzavini/LojaOnline-SQL/tree/main)  
 
 ---
 
@@ -99,5 +101,3 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-martins-972567191)
-
----
