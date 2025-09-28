@@ -86,11 +86,11 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
   🔗 [Acesse diretamente o README do projeto](https://github.com/desouzavini/LojaOnline-SQL/blob/main/README.md)  
   🔗 [Acesse os arquivos SQL](https://github.com/desouzavini/LojaOnline-SQL/tree/main)  
 
-- 🖥️ **TechNova Gestão – Banco de Dados SQL**  
+-- 🖥️ **TechNova Gestão – Banco de Dados SQL**  
   **Descrição:** Modelagem e implementação de um banco de dados corporativo para uma empresa fictícia de tecnologia. Inclui entidades de departamentos, funcionários, clientes, projetos, tarefas e faturas, além de consultas úteis para relatórios gerenciais.  
-  🔗 [Acesse o repositório completo](https://github.com/seu-usuario/tech-nova-gestao)  
-  🔗 [Veja o README do projeto](https://github.com/seu-usuario/tech-nova-gestao/blob/main/README.md)  
-  🔗 [Veja o arquivo SQL](https://github.com/seu-usuario/tech-nova-gestao/blob/main/TechNova.sql)  
+  🔗 [Acesse o repositório completo](https://github.com/desouzavini/tech-nova-gestao)  
+  🔗 [Veja o README do projeto](https://github.com/desouzavini/tech-nova-gestao/blob/main/README.md)  
+  🔗 [Veja o arquivo SQL](https://github.com/desouzavini/tech-nova-gestao/blob/main/TechNova.sql)  
 
 ---
 
