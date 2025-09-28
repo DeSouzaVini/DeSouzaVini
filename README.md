@@ -86,6 +86,12 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
   🔗 [Acesse diretamente o README do projeto](https://github.com/desouzavini/LojaOnline-SQL/blob/main/README.md)  
   🔗 [Acesse os arquivos SQL](https://github.com/desouzavini/LojaOnline-SQL/tree/main)  
 
+- 🖥️ **TechNova Gestão – Banco de Dados SQL**  
+  **Descrição:** Modelagem e implementação de um banco de dados corporativo para uma empresa fictícia de tecnologia. Inclui entidades de departamentos, funcionários, clientes, projetos, tarefas e faturas, além de consultas úteis para relatórios gerenciais.  
+  🔗 [Acesse o repositório completo](https://github.com/seu-usuario/tech-nova-gestao)  
+  🔗 [Veja o README do projeto](https://github.com/seu-usuario/tech-nova-gestao/blob/main/README.md)  
+  🔗 [Veja o arquivo SQL](https://github.com/seu-usuario/tech-nova-gestao/blob/main/TechNova.sql)  
+
 ---
 
 ## 📊 GitHub Stats
@@ -101,3 +107,4 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-martins-972567191)
+
