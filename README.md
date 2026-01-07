@@ -105,16 +105,6 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSouzaVini&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeSouzaVini&show_icons=true&theme=radical" />
-</p>
-
-
----
-
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@hotmail.com)  
