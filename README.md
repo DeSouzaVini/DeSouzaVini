@@ -108,12 +108,10 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeSouzaVini&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSouzaVini&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeSouzaVini&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSouzaVini&layout=compact&theme=radical" />
-</p>
 
 ---
 
