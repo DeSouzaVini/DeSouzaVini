@@ -94,6 +94,17 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ---
 
+- 🛒 **E-commerce – Banco de Dados SQL Server**  
+  **Descrição:** Projeto completo de banco de dados relacional para um sistema de e-commerce, criado em SQL Server com T-SQL.  
+  O projeto inclui modelagem das tabelas, integridade referencial, regras de negócio, auditoria via triggers e diagrama ER.
+
+  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER)  
+  🔗 [Veja o README do projeto](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/README.md)  
+  🔗 [Baixe o script SQL](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/E_COMERCE.sql)  
+  🔗 [Visualize o Diagrama ER](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/MODELAGEM%20DO%20BANCO.png)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
