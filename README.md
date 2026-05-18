@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🎓 Estudante de Data Science <br>
   🧠 Apaixonado por Dados, Design e Desenvolvimento Web <br>
   📍 São Paulo, Brasil
 </p>
