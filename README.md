@@ -105,6 +105,20 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ---
 
+## 🏦 CORE_BANK
+
+Sistema bancário desenvolvido com SQL Server e Python com foco em:
+
+* 🗄️ Modelagem relacional
+* ⚙️ Administração SQL Server
+* 💾 Backup e Restore
+* 🔄 Controle transacional
+* 🐍 Integração Python + Banco de Dados
+
+🔗 Projeto:
+https://github.com/DeSouzaVini/CORE_BANK
+
+
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@hotmail.com)  
