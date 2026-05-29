@@ -153,8 +153,8 @@ https://github.com/DeSouzaVini/CORE_BANK
   * Power Query
   * DAX
   * Excel
-  * 
-    ##Indicadores analisados:
+  
+  ##Indicadores analisados:
     
   * Quantidade de locações
   * Receita total
