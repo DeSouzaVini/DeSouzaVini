@@ -118,6 +118,27 @@ Sistema bancário desenvolvido com SQL Server e Python com foco em:
 🔗 Projeto:
 https://github.com/DeSouzaVini/CORE_BANK
 
+* 📊 **Dashboard de RH – Power BI**
+  **Descrição:** Dashboard interativo desenvolvido no Power BI para acompanhamento de indicadores estratégicos de Recursos Humanos.
+  O projeto realiza análises salariais, métricas de RH e visualização de dados através de gráficos e KPIs executivos.
+
+  **Tecnologias utilizadas:**
+
+  * Power BI
+  * Power Query
+  * DAX
+  * Excel
+
+  **Indicadores analisados:**
+
+  * Média Salarial
+  * Distribuição de Salários
+  * Indicadores de RH
+  * Métricas Estratégicas
+
+  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H)
+  🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H/blob/main/ACOMPANHAMENTO%20DE%20R.H.pbix)
+
 
 ## 📬 Contato
 
