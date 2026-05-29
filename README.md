@@ -141,6 +141,30 @@ https://github.com/DeSouzaVini/CORE_BANK
   🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H)
   🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H/blob/main/ACOMPANHAMENTO%20DE%20R.H.pbix)
 
+---
+
+* **🚗 ALUGUEL DE VEICULOS– Dashboard Power BI**
+  **Descrição:** Dashboard desenvolvido em Power BI para análise estratégica de dados de locação de veículos, clientes e previsões analíticas.
+  O projeto apresenta métricas operacionais e financeiras através de visualizações interativas, KPIs executivos e análise preditiva de desempenho.
+
+  **Tecnologias utilizadas:**
+
+  * Power BI
+  * Power Query
+  * DAX
+  * Excel
+    **Indicadores analisados:**
+  * Quantidade de locações
+  * Receita total
+  * Veículos mais alugados
+  * Análise de clientes
+  * Desempenho por período
+  * Indicadores operacionais
+  * Tendências e previsões
+    🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/ALUGUEL-DE-VEICULOS/tree/main)
+    🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/ALUGUEL-DE-VEICULOS/blob/main/LOCA%C3%87%C3%83O%20DE%20VEICULOS.pbix)
+
+---
 
 ## 📬 Contato
 
