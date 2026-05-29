@@ -124,14 +124,14 @@ https://github.com/DeSouzaVini/CORE_BANK
   **Descrição:** Dashboard interativo desenvolvido no Power BI para acompanhamento de indicadores estratégicos de Recursos Humanos.
   O projeto realiza análises salariais, métricas de RH e visualização de dados através de gráficos e KPIs executivos.
 
-  ##Tecnologias
+  Tecnologias:
 
   * Power BI
   * Power Query
   * DAX
   * Excel
 
-  ##Indicadores analisados:
+  Indicadores analisados:
 
   * Média Salarial
   * Distribuição de Salários
@@ -147,13 +147,15 @@ https://github.com/DeSouzaVini/CORE_BANK
   **Descrição:** Dashboard desenvolvido em Power BI para análise estratégica de dados de locação de veículos, clientes e previsões analíticas.
   O projeto apresenta métricas operacionais e financeiras através de visualizações interativas, KPIs executivos e análise preditiva de desempenho.
 
-  ##Tecnologias
+  Tecnologias:
 
   * Power BI
   * Power Query
   * DAX
   * Excel
-    **Indicadores analisados:**
+  * 
+    Indicadores analisados:
+    
   * Quantidade de locações
   * Receita total
   * Veículos mais alugados
