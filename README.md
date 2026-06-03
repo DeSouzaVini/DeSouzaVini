@@ -174,14 +174,14 @@ https://github.com/DeSouzaVini/CORE_BANK
 
   O projeto realiza o acompanhamento de indicadores comerciais, análise de desempenho de vendedores, evolução das vendas e formas de pagamento, transformando dados em insights para apoio à tomada de decisão.
 
-  **Tecnologias:**
+  ##Tecnologias:
 
   * Power BI
   * Power Query
   * DAX
   * Excel
 
-  **Indicadores analisados:**
+  ##Indicadores analisados:
 
   * Faturamento Total
   * Quantidade de Vendas
