@@ -192,7 +192,7 @@ https://github.com/DeSouzaVini/CORE_BANK
   * Análise por Forma de Pagamento
 
   🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS)
-
+  🔗 [Baixe o Dashboard PBIX]( https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS/blob/main/REALTORIO%20DE%20VENDAS.pbix)
 ---
 
 
