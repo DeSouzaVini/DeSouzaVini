@@ -185,7 +185,6 @@ https://github.com/DeSouzaVini/CORE_BANK
 
   * Faturamento Total
   * Quantidade de Vendas
-  * Ticket Médio
   * Evolução das Vendas
   * Comparativo Anual
   * Análise por Vendedor
