@@ -168,6 +168,34 @@ https://github.com/DeSouzaVini/CORE_BANK
 
 ---
 
+* 📊 **Relatório de Vendas – Dashboard Power BI**
+
+  **Descrição:** Dashboard interativo desenvolvido em Power BI para análise de vendas utilizando dados históricos de 2017, 2018, 2019 e 2020.
+
+  O projeto realiza o acompanhamento de indicadores comerciais, análise de desempenho de vendedores, evolução das vendas e formas de pagamento, transformando dados em insights para apoio à tomada de decisão.
+
+  **Tecnologias:**
+
+  * Power BI
+  * Power Query
+  * DAX
+  * Excel
+
+  **Indicadores analisados:**
+
+  * Faturamento Total
+  * Quantidade de Vendas
+  * Ticket Médio
+  * Evolução das Vendas
+  * Comparativo Anual
+  * Análise por Vendedor
+  * Análise por Forma de Pagamento
+
+  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS)
+
+---
+
+
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vmartins.s.m@hotmail.com)  
