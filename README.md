@@ -194,6 +194,32 @@ https://github.com/DeSouzaVini/CORE_BANK
   🔗 [Baixe o Dashboard PBIX]( https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS/blob/main/REALTORIO%20DE%20VENDAS.pbix)
 ---
 
+* 📊 **FinancePlus: Sistema Analítico de Crédito e Cobrança (End-to-End)**
+
+  **Descrição:** Projeto completo de Engenharia de Dados e Business Intelligence que simula a operação de uma instituição financeira especializada em crédito pessoal.
+
+  O escopo cobre todas as fases de desenvolvimento, desde a modelagem relacional estruturada e geração de dados sintéticos via pipeline ETL,
+  até a consolidação em um Dashboard Executivo de alta performance desenhado com a estética *Dark/Neon Terminal* para apoiar decisões estratégicas.
+
+  ##Tecnologias:
+
+  * Power BI (DAX Avançado e *pureVizInfographic*)
+  * Python (Pandas, POO, Faker)
+  * SQL Server (Modelagem 3FN e Tabelas Temporais)
+  * Figma (UI/UX e Backgrounds)
+
+  ##Indicadores analisados:
+
+  * Visão Executiva de Concessão e Saldo Devedor
+  * Taxa de Inadimplência e Risco por Score
+  * Perfil Demográfico e Segmentação de Clientes
+  * Acompanhamento de Contratos, Parcelas e Cobrança
+  * Performance e Atingimento de Metas (Agências e Gerentes)
+
+  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/FinancePlus)
+  <br>
+  🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/FinancePlus/tree/main/Power%20bi)
+---
 
 ## 📬 Contato
 
