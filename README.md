@@ -1,16 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Vinicius Souza Martins</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Sistemas;Amante+de+Dados,+Design+e+Dev+Web;&center=true&width=400&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ciência+de+Dados;Data+Analytics;Business+Intelligence;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
-<p align="center">
-  🎓 Estudante de Data Science <br>
-  🧠 Apaixonado por Dados, Design e Desenvolvimento Web <br>
+  🎓 Estudante de Ciência de Dados <br>
+  📊 Transformando dados complexos em decisões de negócio <br>
   📍 São Paulo, Brasil
 </p>
 
@@ -18,29 +14,60 @@
 
 ## 🚀 Sobre mim
 
-Sou um estudante focado em **Data Analytics** e **Front-End**, com habilidades em **Python**, **SQL**, **Power BI** e **Design de Interfaces**.  
-Gosto de transformar dados em **insights visuais** e criar **interfaces funcionais e atrativas**.  
-Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
+Sou estudante de **Ciência de Dados**, com foco em **Data Analytics** e **Business Intelligence**, em transição de carreira para a área de tecnologia.
+Tenho experiência prática no desenvolvimento de projetos de ponta a ponta, desde a modelagem de bancos de dados relacionais e extração de dados, até a construção de painéis executivos para a tomada de decisão.
+Sou focado em processos, qualidade e na criação de soluções orientadas a dados que geram impacto real nos negócios.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**Dados & Analytics:**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Design & UI (Dashboards):**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Ferramentas e Cloud:**  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 💼 Projetos em Destaque (Data & Analytics)
+
+### 🏆 1. FinancePlus: Sistema Analítico de Crédito e Cobrança (End-to-End)
+**Descrição:** Projeto completo de Engenharia de Dados e Business Intelligence que simula a operação de uma instituição financeira especializada em crédito pessoal. O escopo cobre desde a modelagem relacional e geração de dados sintéticos via pipeline ETL, até a consolidação em um Dashboard Executivo de alta performance.
+* **Tecnologias:** Power BI (DAX Avançado), Python (Pandas, POO, Faker), SQL Server, Figma.
+* **KPIs Analisados:** Concessão e Saldo Devedor, Taxa de Inadimplência, Risco por Score, Acompanhamento de Contratos e Metas.
+🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/FinancePlus) <br>
+🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/FinancePlus/tree/main/Power%20bi)
+
+### 🏦 2. CORE_BANK - Sistema Bancário
+**Descrição:** Sistema bancário desenvolvido com SQL Server e Python focado na arquitetura e engenharia da informação.
+* **Tecnologias:** SQL Server, Python.
+* **Atuações:** Modelagem relacional, Administração SQL Server, Controle transacional, Backup/Restore e Integração Python + Banco de Dados.
+🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/CORE_BANK)
+
+### 📊 3. Dashboards & Business Intelligence (Power BI)
+* 📈 **Relatório de Vendas:** Acompanhamento de indicadores comerciais, desempenho de vendedores e evolução de faturamento anual. [Acesse aqui](https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS)
+* 🚗 **Aluguel de Veículos:** Análise estratégica de dados de locação, receitas, veículos mais alugados e tendências. [Acesse aqui](https://github.com/DeSouzaVini/ALUGUEL-DE-VEICULOS/tree/main)
+* 👥 **Dashboard de RH:** Acompanhamento de indicadores estratégicos, análises salariais e métricas executivas. [Acesse aqui](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H)
+
+### 🗄️ 4. Projetos de Banco de Dados (SQL Server / MySQL)
+* 🛒 **E-commerce (SQL Server):** Projeto completo com modelagem, integridade referencial, regras de negócio, auditoria via triggers e diagrama ER. [Acesse aqui](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER)
+* 🖥️ **TechNova Gestão (MySQL):** Banco corporativo com relatórios gerenciais e cruzamento de dados de departamentos e faturas. [Acesse aqui](https://github.com/DeSouzaVini/TecNova)
+* 🛍️ **Loja Online (MySQL):** Modelagem e implementação de tabelas e consultas de análise para e-commerce. [Acesse aqui](https://github.com/desouzavini/LojaOnline-SQL)
 
 ---
 
 ## 📈 Certificações
 
-- 📘 **SQL do Básico ao Avançado** – Udemy    
 - 📊 **Power BI + SQL Server** – Udemy  
+- 📘 **SQL do Básico ao Avançado** – Udemy    
 - 🐍 **Python Completo do Zero ao Avançado** – Udemy  
 - 💡 **Ciência de Dados (Básico)** – Udemy  
 - 🎨 **UI Design com Figma (Web & App)** – Udemy  
@@ -48,177 +75,16 @@ Sou autodidata, colaborativo e criativo, sempre buscando novos desafios.
 
 ---
 
-## 💼 Projetos
+## 🎨 Projetos Complementares (UI / Front-End)
+*Meus conhecimentos em design de interfaces, HTML, CSS e JavaScript, utilizados como apoio visual para a criação de Dashboards e prototipação.*
 
-### 🔹 UI / Front-End
+- 🌿 **Green World (UI Figma)** – [Acesse o projeto](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
+- 🎧 **AirPods Max (UI Figma)** – [Acesse o projeto](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
+- 🧬 **X-Men Cards (Front-end)** – [Acesse o projeto](https://desouzavini.github.io/x-man-cards/)
+- 🔴 **Pokédex (Front-end)** – [Acesse o projeto](https://desouzavini.github.io/listagem-pokemon/)
+- 🚓 **GTA V (Front-end)** – [Acesse o projeto](https://desouzavini.github.io/GTA-V/)
+- 🍓 **Refrigerantes (Front-end)** – [Acesse o projeto](https://desouzavini.github.io/Refri/)
 
-- 🌿 **Green World – UI Design para e-commerce de plantas**  
-  **Descrição:** Design de interface no Figma para uma loja fictícia de jardinagem.  
-  🔗 [Acesse o projeto](https://www.figma.com/proto/SjvPDMhhJT2OWZ2gsb1Rj2/Green-World?node-id=1-12&t=OJid05AfQrycwlrs-1)
-
-- 🎧 **AirPods Max – UI Design inspirado na Apple**  
-  **Descrição:** Página de produto inspirada no design minimalista da Apple.  
-  🔗 [Acesse o projeto](https://www.figma.com/proto/i3jh9UFBdIBwNWLeHWtyh3/Sem-t%C3%ADtulo?node-id=0-1&t=mwiddwPXbBzPRa9H-1)
-
-- 🧬 **X-Men Cards – Site interativo com personagens**  
-  **Descrição:** Cards animados com hover de personagens dos X-Men.  
-  🔗 [Acesse o projeto](https://desouzavini.github.io/x-man-cards/)
-
-- 🔴 **Pokédex – Catálogo de Pokémons**  
-  **Descrição:** Simples Pokédex com imagens, descrições e responsividade.  
-  🔗 [Acesse o projeto](https://desouzavini.github.io/listagem-pokemon/)
-
-- 🚓 **GTA V – Homenagem ao jogo**  
-  **Descrição:** Página visual inspirada na estética do GTA V.  
-  🔗 [Acesse o projeto](https://desouzavini.github.io/GTA-V/)
-
-- 🍓 **Refrigerantes – Página simples com 3 opções**  
-  **Descrição:** Página de produtos com imagens e animações básicas.  
-  🔗 [Acesse o projeto](https://desouzavini.github.io/Refri/)
-
----
-
-### 🔹 Data / Analytics
-
-- 🛒 **Loja Online – Banco de Dados SQL**  
-  **Descrição:** Modelagem e implementação de um sistema de e-commerce usando MySQL, com tabelas de clientes, pedidos, pagamentos e estoque. Inclui consultas de análise como produtos mais vendidos e total gasto por cliente.  
-  🔗 [Acesse o repositório completo](https://github.com/desouzavini/LojaOnline-SQL)  
-  🔗 [Acesse diretamente o README do projeto](https://github.com/desouzavini/LojaOnline-SQL/blob/main/README.md)  
-  🔗 [Acesse os arquivos SQL](https://github.com/desouzavini/LojaOnline-SQL/tree/main)  
-
-- 🖥️ **TechNova Gestão – Banco de Dados SQL**  
-  **Descrição:** Modelagem e implementação de um banco de dados corporativo para uma empresa fictícia de tecnologia. Inclui entidades de departamentos, funcionários, clientes, projetos, tarefas e faturas, além de consultas úteis para relatórios gerenciais.  
-  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/TecNova)  
-  🔗 [Veja o README do projeto](https://github.com/DeSouzaVini/TecNova/blob/main/README.md)  
-  🔗 [Veja o arquivo SQL](https://github.com/DeSouzaVini/TecNova/blob/main/TechNova.sql)  
-
----
-
-- 🛒 **E-commerce – Banco de Dados SQL Server**  
-  **Descrição:** Projeto completo de banco de dados relacional para um sistema de e-commerce, criado em SQL Server com T-SQL.  
-  O projeto inclui modelagem das tabelas, integridade referencial, regras de negócio, auditoria via triggers e diagrama ER.
-
-  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER)  
-  🔗 [Veja o README do projeto](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/README.md)  
-  🔗 [Baixe o script SQL](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/E_COMERCE.sql)  
-  🔗 [Visualize o Diagrama ER](https://github.com/DeSouzaVini/PROJETO-E-COMERCE-SQL-SERVER/blob/main/MODELAGEM%20DO%20BANCO.png)
-
----
-
-## 🏦 CORE_BANK
-
-Sistema bancário desenvolvido com SQL Server e Python com foco em:
-
-* 🗄️ Modelagem relacional
-* ⚙️ Administração SQL Server
-* 💾 Backup e Restore
-* 🔄 Controle transacional
-* 🐍 Integração Python + Banco de Dados
-
-🔗 Projeto:
-https://github.com/DeSouzaVini/CORE_BANK
-
----
-
-* 📊 **Dashboard de RH – Power BI**
-  **Descrição:** Dashboard interativo desenvolvido no Power BI para acompanhamento de indicadores estratégicos de Recursos Humanos.
-  O projeto realiza análises salariais, métricas de RH e visualização de dados através de gráficos e KPIs executivos.
-
-  ##Tecnologias:
-
-  * Power BI
-  * Power Query
-  * DAX
-  * Excel
-
-  ##Indicadores analisados:
-
-  * Média Salarial
-  * Distribuição de Salários
-  * Indicadores de RH
-  * Métricas Estratégicas
-
-  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H)
-  🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/ACOMPANHAMENTO-DE-R.H/blob/main/ACOMPANHAMENTO%20DE%20R.H.pbix)
-
----
-
-* **🚗 ALUGUEL DE VEICULOS– Dashboard Power BI**
-  **Descrição:** Dashboard desenvolvido em Power BI para análise estratégica de dados de locação de veículos, clientes e previsões analíticas.
-  O projeto apresenta métricas operacionais e financeiras através de visualizações interativas, KPIs executivos e análise preditiva de desempenho.
-
-  ##Tecnologias:
-
-  * Power BI
-  * Power Query
-  * DAX
-  * Excel
-  
-  ##Indicadores analisados:
-    
-  * Quantidade de locações
-  * Receita total
-  * Veículos mais alugados
-  * Análise de clientes
-  * Desempenho por período
-  * Indicadores operacionais
-  * Tendências e previsões
-    🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/ALUGUEL-DE-VEICULOS/tree/main)
-    🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/ALUGUEL-DE-VEICULOS/blob/main/LOCA%C3%87%C3%83O%20DE%20VEICULOS.pbix)
-
----
-
-* 📊 **Relatório de Vendas – Dashboard Power BI**
-
-  **Descrição:** Dashboard interativo desenvolvido em Power BI para análise de vendas utilizando dados históricos de 2017, 2018, 2019 e 2020.
-
-  O projeto realiza o acompanhamento de indicadores comerciais, análise de desempenho de vendedores, evolução das vendas e formas de pagamento, transformando dados em insights para apoio à tomada de decisão.
-
-  ##Tecnologias:
-
-  * Power BI
-  * Power Query
-  * DAX
-  * Excel
-
-  ##Indicadores analisados:
-
-  * Faturamento Total
-  * Quantidade de Vendas
-  * Evolução das Vendas
-  * Comparativo Anual
-  * Análise por Vendedor
-  * Análise por Forma de Pagamento
-
-  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS)
-  🔗 [Baixe o Dashboard PBIX]( https://github.com/DeSouzaVini/RELATORIO-DE-VENDAS/blob/main/REALTORIO%20DE%20VENDAS.pbix)
----
-
-* 📊 **FinancePlus: Sistema Analítico de Crédito e Cobrança (End-to-End)**
-
-  **Descrição:** Projeto completo de Engenharia de Dados e Business Intelligence que simula a operação de uma instituição financeira especializada em crédito pessoal.
-
-  O escopo cobre todas as fases de desenvolvimento, desde a modelagem relacional estruturada e geração de dados sintéticos via pipeline ETL,
-  até a consolidação em um Dashboard Executivo de alta performance desenhado com a estética *Dark/Neon Terminal* para apoiar decisões estratégicas.
-
-  ##Tecnologias:
-
-  * Power BI (DAX Avançado e *pureVizInfographic*)
-  * Python (Pandas, POO, Faker)
-  * SQL Server (Modelagem 3FN e Tabelas Temporais)
-  * Figma (UI/UX e Backgrounds)
-
-  ##Indicadores analisados:
-
-  * Visão Executiva de Concessão e Saldo Devedor
-  * Taxa de Inadimplência e Risco por Score
-  * Perfil Demográfico e Segmentação de Clientes
-  * Acompanhamento de Contratos, Parcelas e Cobrança
-  * Performance e Atingimento de Metas (Agências e Gerentes)
-
-  🔗 [Acesse o repositório completo](https://github.com/DeSouzaVini/FinancePlus)
-  <br>
-  🔗 [Baixe o Dashboard PBIX](https://github.com/DeSouzaVini/FinancePlus/tree/main/Power%20bi)
 ---
 
 ## 📬 Contato
